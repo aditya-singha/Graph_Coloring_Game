@@ -1,0 +1,28 @@
+#main-header {
+    -fx-text-fill: #007BFF;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px;
+    -fx-background-color: #B3E5FC;
+    -fx-border-color: #007BFF;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-alignment: center;
+}
+
+#mode-button {
+    -fx-background-color: #007BFF;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.25), 10, 0.5, 0, 0);
+    -fx-cursor: hand;
+}
+
+#mode-button:hover {
+    -fx-background-color: #0056b3;
+}

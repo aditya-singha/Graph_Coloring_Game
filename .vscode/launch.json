@@ -1,0 +1,79 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.web",
+            "mainClass": "Main",
+            "projectName": "28-CodeThirdPhase_c0fc947e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.web",
+            "mainClass": "Main",
+            "projectName": "28-CodeSecondPhase_da22573a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.web",
+            "mainClass": "Main",
+            "projectName": "28-CodeSecondPhase_6d66ca7d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.web",
+            "mainClass": "Main",
+            "projectName": "28-CodeSecondPhase_6d66ca7d"
+        },
+        {
+            "type": "java",
+            "name": "StopwatchApp",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.web",
+            "mainClass": "StopwatchApp",
+            "projectName": "28-CodeSecondPhase_6d66ca7d"
+        },
+        {
+            "type": "java",
+            "name": "GameLauncher",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.web",
+            "mainClass": "GameLauncher",
+            "projectName": "28-CodeSecondPhase_6d66ca7d"
+        },
+        {
+            "type": "java",
+            "name": "ReadGraph",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.web",
+            "mainClass": "ReadGraph",
+            "projectName": "28-CodeSecondPhase_6d66ca7d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.web",
+            "mainClass": "Main",
+            "projectName": "28-CodeSecondPhase_6d66ca7d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.web",
+            "mainClass": "${file}"
+        }
+    ]
+}
